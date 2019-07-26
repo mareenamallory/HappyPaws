@@ -1,3 +1,5 @@
+Credit for the theme:
+
 Thanks for downloading this theme!
 
 Theme Name: Reveal
