@@ -42,7 +42,7 @@ h2,
 h3 {
   font-family: "Montserrat", sans-serif;
   font-weight: 400;
-  margin: 0 0 0 0;
+  margin: 0 0 20px 0;
   padding: 0;
 }
 
@@ -51,7 +51,7 @@ h5,
 h6 {
   font-family: "Montserrat", sans-serif;
   font-weight: 400;
-  margin: 0 0 20px 0;
+  margin: 0 0 0 0;
   padding: 0;
 }
 /* Back to top button */
@@ -902,14 +902,15 @@ body.mobile-nav-active #mobile-nav-toggle {
 #testimonials .testimonial-item h3 {
   font-size: 18px;
   font-weight: bold;
-  margin: 10px 0 5px 0;
+  margin: 10px 0 20px 0;
+  padding-bottom: 20px;
   color: #111;
 }
 
 #testimonials .testimonial-item h4 {
   font-size: 14px;
   color: #999;
-  margin: 0;
+  margin: 0 0 20px 0;
 }
 
 #testimonials .testimonial-item .quote-sign-left {
